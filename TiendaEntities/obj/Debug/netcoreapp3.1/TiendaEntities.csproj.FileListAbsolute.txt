@@ -29,7 +29,7 @@ C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaE
 C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaEntities\obj\Debug\netcoreapp3.1\TiendaEntities.csprojAssemblyReference.cache
 C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaEntities\obj\Debug\netcoreapp3.1\TiendaEntities.AssemblyInfoInputs.cache
 C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaEntities\obj\Debug\netcoreapp3.1\TiendaEntities.AssemblyInfo.cs
-C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaEntities\obj\Debug\netcoreapp3.1\TiendaEntities.csproj.CoreCompileInputs.cache
 C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaEntities\obj\Debug\netcoreapp3.1\TiendaEntities.dll
 C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaEntities\obj\Debug\netcoreapp3.1\TiendaEntities.pdb
 C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaEntities\obj\Debug\netcoreapp3.1\TiendaEntities.genruntimeconfig.cache
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaEntities\obj\Debug\netcoreapp3.1\TiendaEntities.csproj.CoreCompileInputs.cache
