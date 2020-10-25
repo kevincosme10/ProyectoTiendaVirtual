@@ -49,8 +49,6 @@ namespace TiendaService.Service
                     throw new ArgumentException("No existen datos con los parametros suministrado por el usuario");
             }
 
-
-
             return producto;
         }
 
