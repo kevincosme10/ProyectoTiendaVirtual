@@ -1,0 +1,56 @@
+C:\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\TiendaService.deps.json
+C:\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\TiendaService.dll
+C:\ProyectoTiendaVirtual\TiendaService\obj\Debug\netcoreapp3.1\TiendaService.csprojAssemblyReference.cache
+C:\ProyectoTiendaVirtual\TiendaService\obj\Debug\netcoreapp3.1\TiendaService.AssemblyInfoInputs.cache
+C:\ProyectoTiendaVirtual\TiendaService\obj\Debug\netcoreapp3.1\TiendaService.AssemblyInfo.cs
+C:\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\tiendaCommon.dll
+C:\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\TiendaData.dll
+C:\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\TiendaEntities.dll
+C:\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\TiendaService.runtimeconfig.json
+C:\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\TiendaService.runtimeconfig.dev.json
+C:\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\TiendaService.pdb
+C:\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\tiendaCommon.pdb
+C:\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\TiendaData.pdb
+C:\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\TiendaEntities.pdb
+C:\ProyectoTiendaVirtual\TiendaService\obj\Debug\netcoreapp3.1\TiendaService.csproj.CopyComplete
+C:\ProyectoTiendaVirtual\TiendaService\obj\Debug\netcoreapp3.1\TiendaService.dll
+C:\ProyectoTiendaVirtual\TiendaService\obj\Debug\netcoreapp3.1\TiendaService.pdb
+C:\ProyectoTiendaVirtual\TiendaService\obj\Debug\netcoreapp3.1\TiendaService.genruntimeconfig.cache
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\TiendaService.deps.json
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\TiendaService.runtimeconfig.json
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\TiendaService.runtimeconfig.dev.json
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\TiendaService.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\TiendaService.pdb
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\tiendaCommon.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\TiendaData.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\TiendaEntities.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\tiendaCommon.pdb
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\TiendaData.pdb
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\TiendaEntities.pdb
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\obj\Debug\netcoreapp3.1\TiendaService.csprojAssemblyReference.cache
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\obj\Debug\netcoreapp3.1\TiendaService.AssemblyInfoInputs.cache
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\obj\Debug\netcoreapp3.1\TiendaService.AssemblyInfo.cs
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\obj\Debug\netcoreapp3.1\TiendaService.csproj.CoreCompileInputs.cache
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\obj\Debug\netcoreapp3.1\TiendaService.csproj.CopyComplete
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\obj\Debug\netcoreapp3.1\TiendaService.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\obj\Debug\netcoreapp3.1\TiendaService.pdb
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\obj\Debug\netcoreapp3.1\TiendaService.genruntimeconfig.cache
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\TiendaService.deps.json
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\TiendaService.runtimeconfig.json
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\TiendaService.runtimeconfig.dev.json
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\TiendaService.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\TiendaService.pdb
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\tiendaCommon.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\TiendaData.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\TiendaEntities.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\tiendaCommon.pdb
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\TiendaData.pdb
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\bin\Debug\netcoreapp3.1\TiendaEntities.pdb
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\obj\Debug\netcoreapp3.1\TiendaService.csprojAssemblyReference.cache
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\obj\Debug\netcoreapp3.1\TiendaService.AssemblyInfoInputs.cache
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\obj\Debug\netcoreapp3.1\TiendaService.AssemblyInfo.cs
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\obj\Debug\netcoreapp3.1\TiendaService.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\obj\Debug\netcoreapp3.1\TiendaService.csproj.CopyComplete
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\obj\Debug\netcoreapp3.1\TiendaService.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\obj\Debug\netcoreapp3.1\TiendaService.pdb
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\TiendaService\obj\Debug\netcoreapp3.1\TiendaService.genruntimeconfig.cache

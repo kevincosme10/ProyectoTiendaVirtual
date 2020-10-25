@@ -1,0 +1,160 @@
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Tienda.exe
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\tiendaCommon.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\TiendaData.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\TiendaEntities.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\TiendaService.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\tiendaCommon.pdb
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\TiendaData.pdb
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\TiendaEntities.pdb
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\TiendaService.pdb
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.csprojAssemblyReference.cache
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.AssemblyInfoInputs.cache
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.AssemblyInfo.cs
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.RazorTargetAssemblyInfo.cache
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.csproj.CopyComplete
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\staticwebassets\Tienda.StaticWebAssets.Manifest.cache
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\staticwebassets\Tienda.StaticWebAssets.xml
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Tienda.deps.json
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Tienda.runtimeconfig.json
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Tienda.runtimeconfig.dev.json
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Tienda.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Tienda.pdb
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.pdb
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.genruntimeconfig.cache
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.csproj.CoreCompileInputs.cache
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jordy\source\repos\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Tienda.exe
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Tienda.deps.json
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Tienda.runtimeconfig.json
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Tienda.runtimeconfig.dev.json
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Tienda.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Tienda.pdb
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\tiendaCommon.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\TiendaData.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\TiendaEntities.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\TiendaService.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\tiendaCommon.pdb
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\TiendaData.pdb
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\TiendaEntities.pdb
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\TiendaService.pdb
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.csprojAssemblyReference.cache
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.AssemblyInfoInputs.cache
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.AssemblyInfo.cs
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.RazorTargetAssemblyInfo.cache
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.csproj.CopyComplete
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\staticwebassets\Tienda.StaticWebAssets.Manifest.cache
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\staticwebassets\Tienda.StaticWebAssets.xml
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.pdb
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.genruntimeconfig.cache

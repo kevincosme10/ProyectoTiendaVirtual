@@ -1,0 +1,398 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaVirtual\\TiendaVirtual.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\tiendaCommon\\tiendaCommon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\tiendaCommon\\tiendaCommon.csproj",
+        "projectName": "tiendaCommon",
+        "projectPath": "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\tiendaCommon\\tiendaCommon.csproj",
+        "packagesPath": "C:\\Users\\jordy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\tiendaCommon\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jordy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaData\\TiendaData.csproj": {
+                "projectPath": "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaData\\TiendaData.csproj"
+              },
+              "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaEntities\\TiendaEntities.csproj": {
+                "projectPath": "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaEntities\\TiendaEntities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaData\\TiendaData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaData\\TiendaData.csproj",
+        "projectName": "TiendaData",
+        "projectPath": "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaData\\TiendaData.csproj",
+        "packagesPath": "C:\\Users\\jordy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaData\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jordy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaEntities\\TiendaEntities.csproj": {
+                "projectPath": "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaEntities\\TiendaEntities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaEntities\\TiendaEntities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaEntities\\TiendaEntities.csproj",
+        "projectName": "TiendaEntities",
+        "projectPath": "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaEntities\\TiendaEntities.csproj",
+        "packagesPath": "C:\\Users\\jordy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaEntities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jordy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaService\\TiendaService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaService\\TiendaService.csproj",
+        "projectName": "TiendaService",
+        "projectPath": "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaService\\TiendaService.csproj",
+        "packagesPath": "C:\\Users\\jordy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jordy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\tiendaCommon\\tiendaCommon.csproj": {
+                "projectPath": "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\tiendaCommon\\tiendaCommon.csproj"
+              },
+              "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaData\\TiendaData.csproj": {
+                "projectPath": "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaData\\TiendaData.csproj"
+              },
+              "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaEntities\\TiendaEntities.csproj": {
+                "projectPath": "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaEntities\\TiendaEntities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaVirtual\\TiendaVirtual.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaVirtual\\TiendaVirtual.csproj",
+        "projectName": "TiendaVirtual",
+        "projectPath": "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaVirtual\\TiendaVirtual.csproj",
+        "packagesPath": "C:\\Users\\jordy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaVirtual\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jordy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\tiendaCommon\\tiendaCommon.csproj": {
+                "projectPath": "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\tiendaCommon\\tiendaCommon.csproj"
+              },
+              "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaData\\TiendaData.csproj": {
+                "projectPath": "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaData\\TiendaData.csproj"
+              },
+              "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaEntities\\TiendaEntities.csproj": {
+                "projectPath": "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaEntities\\TiendaEntities.csproj"
+              },
+              "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaService\\TiendaService.csproj": {
+                "projectPath": "C:\\Users\\jordy\\source\\repos\\ProyectoTiendaVirtual\\ProyectoTiendaVirtual\\TiendaService\\TiendaService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.95.3, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
