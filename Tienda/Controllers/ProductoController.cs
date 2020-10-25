@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Tienda.Infraestructura.Base;
 using tiendaCommon.Filtro;
@@ -49,6 +50,30 @@ namespace Tienda.Controllers
                 };
                 return Ok(pagination);
 
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+
+        [HttpGet, DisableRequestSizeLimit]
+        [Route("PostProducto/{nombre}/{codigo}/{description}/{precio}/{cantidad}")]
+        [AllowAnonymous]
+        public ActionResult PostProducto(string nombre, string codigo, string description, decimal precio, int cantidad)
+        {
+            try
+            {
+                var producto = new Producto()
+                {
+                    Nombre = nombre,
+                    CodigoProducto = codigo,
+                    Descripcion = description,
+                    Precio = precio,
+                    Cantidad = cantidad,
+                };
+                productoService.InsertProducto(producto);
+                return Ok();
             }
             catch (Exception ex)
             {

@@ -10,5 +10,8 @@ namespace TiendaService.ServiceInterface
     public interface IProductoService
     {
         IEnumerable<Producto> GetPaged(ProductoFilter Filtro);
+
+        void InsertProducto(Producto producto);
+
     }
 }
