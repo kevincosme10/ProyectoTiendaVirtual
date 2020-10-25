@@ -21,15 +21,7 @@ namespace TiendaData.Repository
             this.RepositoryContext = repositoryContext;
             entities = RepositoryContext.Set<T>();
         }
-        public virtual int Create(T entity)
-        {
-         
-            entity.CreateDate = DateTime.Now;
-            entity.Estado = true;
-            var result = entities.Add(entity);
-            this.RepositoryContext.SaveChanges();
-            return Convert.ToInt32(result.Property("Id").CurrentValue.ToString());
-        }
+        
         public async Task<int> CommitChanges() => await this.RepositoryContext.SaveChangesAsync();
         private int Save => this.RepositoryContext.SaveChanges();
         public virtual void Delete(int Id)
@@ -57,14 +49,23 @@ namespace TiendaData.Repository
         }
         public virtual T Update(T entity)
         {
-            entity.Estado = false;
             entity.LastUpdate = DateTime.Now;
             this.RepositoryContext.Set<T>().Update(entity);
             this.RepositoryContext.SaveChanges();
             return entity;
         }
-
         public bool Exist(Expression<Func<T, bool>> expression) => (this.RepositoryContext.Set<T>().Any(expression));
+
+        public virtual int Create(T entity)
+        {
+
+            entity.CreateDate = DateTime.Now;
+            entity.Estado = true;
+            entity.LastUpdate = DateTime.Now;
+            var result = entities.Add(entity);
+            this.RepositoryContext.SaveChanges();
+            return Convert.ToInt32(result.Property("Id").CurrentValue.ToString());
+        }
 
     }
 }

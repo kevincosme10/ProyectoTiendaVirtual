@@ -17,13 +17,14 @@ namespace TiendaService.Service
     public class ProductoService :ServiceBase<Producto>, IProductoService
     {
         readonly IMapper mapper;
-      
+        readonly IBaseRepository<Producto> _baseRepository;
+
 
         public ProductoService(IBaseRepository<Producto> baseRepository, IMapper _mapper) : base(baseRepository)
         {
    
             mapper = _mapper;
-            
+            _baseRepository = baseRepository;
 
         }
         public IEnumerable<Producto> GetPaged(ProductoFilter Filtro)
@@ -53,7 +54,31 @@ namespace TiendaService.Service
 
             return producto;
         }
+        private void UpdateProducto(Producto data)
+        {
+            foreach (var item in _baseRepository.FindByCondition(c => c.CodigoProducto == data.CodigoProducto).ToList())
+            {
+                if (item != null)
+                {
+                    item.CodigoProducto = data.CodigoProducto;
+                    item.Nombre = data.Nombre;
+                    item.Precio = data.Precio;
+                    item.Descripcion = data.Descripcion;
+                    item.Cantidad = data.Cantidad;
+                    item.Estado = true;
+                    _baseRepository.Update(item);
+                }
+            }
+        }
+        public void InsertProducto(Producto data)
+        {
+            UpdateProducto(data);
 
-
+            var consult = _baseRepository.Exist(c => c.CodigoProducto == data.CodigoProducto);
+            if (!consult)
+            {
+                _baseRepository.Create(data);
+            }
+        }
     }
 }
