@@ -17,6 +17,7 @@ namespace Tienda.Infraestructura.Mapping
 
                 //Mapeo de producto
                 cfg.CreateMap<Producto, ProductoDto>().ReverseMap();
+                cfg.CreateMap<CarritoCompra, CarritoCompraDto>().ReverseMap();
 
             });
             IMapper mapper = config.CreateMapper();

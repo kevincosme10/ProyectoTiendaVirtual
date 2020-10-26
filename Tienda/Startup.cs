@@ -72,6 +72,10 @@ namespace Tienda
             services.AddScoped<IBaseRepository<Producto>, ProductoRepository>();
             services.AddScoped<IProductoService, ProductoService>();
 
+            services.AddScoped<IServiceBase<CarritoCompra>, CarritoCompraServices>();
+            services.AddScoped<IBaseRepository<CarritoCompra>, CarritoCompraRepository>();
+            services.AddScoped<ICarritoCompra, CarritoCompraServices>();
+
             services.AddScoped<IServiceBase<usuario>, usuarioService>();
             services.AddScoped<IBaseRepository<usuario>, usuarioRepository>();
             services.AddScoped<Iusuario, usuarioService>();
