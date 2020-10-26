@@ -1,10 +1,15 @@
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
+using System;
+using System.Text;
 using TiendaData.Interfaces.Base;
 using TiendaData.Repository;
 using TiendaEntities.Models;
@@ -26,6 +31,24 @@ namespace Tienda
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            /*services.AddIdentity<AplicationUser, IdentityRole>()
+                .AddEntityFrameworkStores<TiendaDataContext>()
+                .AddDefaultTokenProviders();
+
+            services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+                .AddJwtBearer(options =>
+                options.TokenValidationParameters = new TokenValidationParameters
+                {
+                    ValidateIssuer = true,
+                    ValidateAudience = true,
+                    ValidateLifetime = true,
+                    ValidateIssuerSigningKey = true,
+                    ValidIssuer = "yourdomain.com",
+                    ValidAudience = "yourdomain.com",
+                    IssuerSigningKey = new SymmetricSecurityKey(
+                        Encoding.UTF8.GetBytes(Configuration["llave_secreta"]))
+                });*/
+
             var connectionString = Configuration["sqlconnection:connectionString"];
 
             var migrationAssembly = typeof(Startup).GetType().Assembly.GetName().Name;
@@ -48,6 +71,12 @@ namespace Tienda
             services.AddScoped<IServiceBase<Producto>, ProductoService>();
             services.AddScoped<IBaseRepository<Producto>, ProductoRepository>();
             services.AddScoped<IProductoService, ProductoService>();
+
+            services.AddScoped<IServiceBase<usuario>, usuarioService>();
+            services.AddScoped<IBaseRepository<usuario>, usuarioRepository>();
+            services.AddScoped<Iusuario, usuarioService>();
+
+
 
             var mapper = Infraestructura.Mapping.MappingEntity.GetMapper();
             services.AddSingleton(mapper);
@@ -75,6 +104,8 @@ namespace Tienda
             app.UseHttpsRedirection();
 
             app.UseRouting();
+
+            app.UseAuthentication();
 
             app.UseAuthorization();
 
