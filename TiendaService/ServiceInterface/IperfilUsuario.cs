@@ -6,5 +6,6 @@ namespace TiendaService.ServiceInterface
 {
    public interface IperfilUsuario
     {
+        List<int> ObtenerPerfilesdeUsuario(int idUsiario);
     }
 }

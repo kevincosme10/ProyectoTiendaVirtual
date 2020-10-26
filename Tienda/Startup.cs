@@ -76,6 +76,17 @@ namespace Tienda
             services.AddScoped<IBaseRepository<usuario>, usuarioRepository>();
             services.AddScoped<Iusuario, usuarioService>();
 
+            services.AddScoped<IServiceBase<opcionesMenu>, opcionesMenuService>();
+            services.AddScoped<IBaseRepository<opcionesMenu>, opcionesMenuRepository>();
+            services.AddScoped<IopcionesMenu, opcionesMenuService>();
+
+            services.AddScoped<IServiceBase<perfilAccion>, perfilAccionService>();
+            services.AddScoped<IBaseRepository<perfilAccion>, perfilAccionRepository>();
+            services.AddScoped<IperfilAccion, perfilAccionService>();
+
+            services.AddScoped<IServiceBase<perfilUsuario>, perfilUsuarioService>();
+            services.AddScoped<IBaseRepository<perfilUsuario>, perfilUsuarioRepository>();
+            services.AddScoped<IperfilUsuario, perfilUsuarioService>();
 
 
             var mapper = Infraestructura.Mapping.MappingEntity.GetMapper();

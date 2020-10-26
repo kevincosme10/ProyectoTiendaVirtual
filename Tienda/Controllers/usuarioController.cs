@@ -21,10 +21,20 @@ namespace Tienda.Controllers
     public class usuarioController : BaseApi<usuario, usuarioDto, IServiceBase<usuario>>
     {
         readonly Iusuario usuarioService;
+        readonly IperfilAccion iperfilAccion;
+        readonly IperfilUsuario iperfilUsuario;
+        readonly IopcionesMenu iopcionesMenu;
 
-        public usuarioController(IServiceBase<usuario> manager,IMapper mapper , Iusuario _usuarioService ): base(manager, mapper)
+        public usuarioController(IServiceBase<usuario> manager,IMapper mapper , Iusuario _usuarioService, 
+            IperfilAccion _IperfilAccion,
+            IperfilUsuario _IperfilUsuario,
+            IopcionesMenu _IopcionesMenu
+            ) : base(manager, mapper)
         {
             this.usuarioService = _usuarioService;
+            this.iopcionesMenu = _IopcionesMenu;
+            this.iperfilAccion = _IperfilAccion;
+            this.iperfilUsuario = _IperfilUsuario;
         }
 
         [HttpGet]
@@ -48,9 +58,19 @@ namespace Tienda.Controllers
             }
         }
 
-        public usuario get() 
+        [HttpGet]
+        [Route("OpcionesUsuario")]
+        public JsonResult getOpcionesDeManu(int idUsuario) 
         {
-            return new usuario();
+            List<string> lista = new List<string>();
+            if (idUsuario > 0)
+            {
+
+            lista = iopcionesMenu.obtenerOpcionesMenu(iperfilAccion.obtenerAcciones(iperfilUsuario.ObtenerPerfilesdeUsuario(idUsuario)));
+            }
+
+
+            return Json(new { opciones = lista });
         }
     }
 }

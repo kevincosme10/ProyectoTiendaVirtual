@@ -6,5 +6,6 @@ namespace TiendaService.ServiceInterface
 {
    public interface IperfilAccion
     {
+        List<int> obtenerAcciones(List<int> perfiles);
     }
 }

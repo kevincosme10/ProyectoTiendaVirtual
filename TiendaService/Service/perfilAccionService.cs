@@ -16,5 +16,19 @@ namespace TiendaService.Service
         {
             this.repository = repository;
         }
+    
+        public List<int> obtenerAcciones(List<int> perfiles)
+        {
+            List<int> acciones = new List<int>();
+            foreach(perfilAccion p in base.FindAll())
+            {
+                if (perfiles.Contains(p.IdPerfil))
+                {
+                    if(!acciones.Contains(p.IdAccion))
+                        acciones.Add(p.IdAccion);
+                }
+            }
+            return acciones;
+        }
     }
 }
