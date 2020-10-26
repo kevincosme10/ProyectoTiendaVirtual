@@ -8,7 +8,7 @@ namespace TiendaEntities.Models
     [Table("perfilUsuario", Schema = "dbo")]
     public class perfilUsuario: BaseEntity
     {
-        public int IdAccion { get; set; }
+        public int IdUsuario { get; set; }
         public int IdPerfil { get; set; }
     }
 }

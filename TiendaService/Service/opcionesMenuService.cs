@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Runtime.CompilerServices;
 using System.Text;
 using TiendaData.Interfaces.Base;
 using TiendaEntities.Models;
@@ -15,6 +16,22 @@ namespace TiendaService.Service
         public opcionesMenuService(IBaseRepository<opcionesMenu> repository) : base(repository)
         {
             this.repository = repository;
+        }
+
+        public List<string> obtenerOpcionesMenu(List<int> opcionesMenu)
+        {
+            List<string> opciones = new List<string>();
+            foreach(opcionesMenu om in base.FindAll())
+            {
+                if (opcionesMenu.Contains(om.Id))
+                {
+                    if (!opciones.Contains(om.codigoAccion))
+                    {
+                        opciones.Add(om.codigoAccion);
+                    }
+                }
+            }
+            return opciones;
         }
     }
 }
