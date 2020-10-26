@@ -148,9 +148,6 @@ C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\
 C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.csprojAssemblyReference.cache
 C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.AssemblyInfoInputs.cache
 C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.AssemblyInfo.cs
-C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.csproj.CoreCompileInputs.cache
-C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.RazorTargetAssemblyInfo.cache
 C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.csproj.CopyComplete
 C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\staticwebassets\Tienda.StaticWebAssets.Manifest.cache
@@ -158,3 +155,12 @@ C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\
 C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.dll
 C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.pdb
 C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.genruntimeconfig.cache
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kevin Cosme\Desktop\ProyectoTiendaVirtual\ProyectoTiendaVirtual\Tienda\obj\Debug\netcoreapp3.1\Tienda.MvcApplicationPartsAssemblyInfo.cache
