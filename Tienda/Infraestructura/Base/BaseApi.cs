@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using TiendaEntities.Models;
@@ -11,11 +12,15 @@ using TiendaService.Base.BaseInterface;
 namespace Tienda.Infraestructura.Base
 {
     [Route("api/[controller]")]
+    [AllowAnonymous]
     [ApiController]
     public class BaseApi<TEntity, TDto, TManager> : Controller where TEntity : BaseEntity where TManager : IServiceBase<TEntity>
     {
         protected readonly TManager _service;
         protected readonly IMapper _Mapper;
+        private IServiceBase<Producto> manager;
+        private IMapper mapper;
+
         public BaseApi(TManager manager, IMapper mapper)
         {
             _service = manager;
@@ -78,8 +83,10 @@ namespace Tienda.Infraestructura.Base
             }
         }
 
+        
+        [HttpDelete, DisableRequestSizeLimit]
+        [AllowAnonymous]
         [Route("{id}")]
-        [HttpDelete]
         public virtual IActionResult Delete([FromRoute] int id)
         {
             try
